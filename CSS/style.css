@@ -1,0 +1,66 @@
+.header {
+  background-color: #eee;
+  text-align: left;
+}
+.mainbox {
+  background-color: #53bcf9;
+  color: white;
+}
+.mainbox i,
+.mainbox a {
+  color: white;
+}
+.mainbox a:hover {
+  background-color: #f8951ce8;
+  color: white !important;
+}
+.btn {
+  width: 100%;
+  background-color: #ffa535;
+  letter-spacing: 1px;
+  font-size: 22px;
+}
+h1,
+h5 {
+  font-weight: 400;
+}
+.border_line {
+  width: 100%;
+  border-top: 2px solid white;
+}
+.form_text {
+  font-size: smaller;
+}
+.bg1 {
+  background-color: #7ecdfb;
+}
+.like_gift_user img {
+  width: 64px;
+}
+.ceo_john img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 4px solid gray;
+}
+.john_line {
+  width: 150px;
+  border-bottom: 3px solid gray;
+  margin: 10px auto;
+}
+.ceo_john {
+  background-color: #eeeeee;
+}
+.footer a {
+  font-size: 18px;
+  color: #212529;
+  text-decoration: none;
+  letter-spacing: 1px;
+}
+.footer a:hover {
+  background-color: #00000012;
+}
+
+.border-left {
+  border-left: 1px solid black;
+}
